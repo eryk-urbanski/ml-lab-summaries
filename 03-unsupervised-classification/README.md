@@ -1,0 +1,6 @@
+- *k*-means
+  - iris dataset
+  - PCA to reduce the number of dimensions to 2
+  - Experiment 1: Increasing the number of clusters (*k*) + visualization
+  - Experiment 2: Changes between iterations + visualization
+- 
